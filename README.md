@@ -1,2 +1,2 @@
 # hello-world
-tarefa da faculdade
+read hello world
